@@ -38,7 +38,7 @@ Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke 
 `            data[nama] = nim, tugas, uts, uas, akhir` <br>
 `        else:` <br>
 `            print("Data Nilai Tidak Ada".format(nama))` <br>
-`
+
 `    elif c.lower() == 'l':` <br>
 `        print("=======Daftar Nilai Mahasiswa=======")` <br>
 `        print("================================================================================================")` <br>
